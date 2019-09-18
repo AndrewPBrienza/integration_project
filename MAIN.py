@@ -1,5 +1,5 @@
 # Andrew Brienza
-#  Somthing that I dont know yet.
-Print (" Welcome User!")
-Print (" Let us take a trip")
-Print (552+632-786*2/3)
+# Somthing that I dont know yet.
+print ("Welcome, User")
+print ("Let us take a trip")
+print (552+658-732*21/3)
